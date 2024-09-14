@@ -1,0 +1,15 @@
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Java compiled files and logs
+*.class
+*.log
+
+# Ignore any package or dependency files (if applicable)
+target/
+out/
+
+# Ignore IntelliJ IDEA project files (if you're using IntelliJ)
+.idea/
+*.iml
+
